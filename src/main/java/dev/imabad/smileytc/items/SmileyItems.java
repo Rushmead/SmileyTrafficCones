@@ -1,13 +1,8 @@
 package dev.imabad.smileytc.items;
 
-import dev.imabad.smileytc.SmileyTrafficCones;
 import dev.imabad.smileytc.blocks.SmileyBlocks;
-import net.minecraft.block.Block;
-import net.minecraft.init.Blocks;
-import net.minecraft.init.Items;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
-import net.minecraftforge.fml.common.registry.GameRegistry;
 
 public class SmileyItems {
 

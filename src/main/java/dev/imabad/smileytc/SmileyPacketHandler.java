@@ -1,7 +1,6 @@
 package dev.imabad.smileytc;
 
 import dev.imabad.smileytc.packets.UpdateConePacket;
-import dev.imabad.smileytc.packets.UpdateConePacket.ServerHandler;
 import net.minecraftforge.fml.common.network.NetworkRegistry;
 import net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper;
 import net.minecraftforge.fml.relauncher.Side;

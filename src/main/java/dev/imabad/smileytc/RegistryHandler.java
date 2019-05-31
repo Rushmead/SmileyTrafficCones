@@ -1,12 +1,10 @@
 package dev.imabad.smileytc;
 
-import dev.imabad.smileytc.blocks.BlockSmileyTrafficCone;
 import dev.imabad.smileytc.blocks.SmileyBlocks;
 import dev.imabad.smileytc.blocks.TileSmileyTrafficCone;
 import dev.imabad.smileytc.items.SmileyItems;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemBlock;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;

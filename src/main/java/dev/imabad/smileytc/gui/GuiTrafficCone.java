@@ -7,12 +7,10 @@ import dev.imabad.smileytc.blocks.TileSmileyTrafficCone;
 import dev.imabad.smileytc.packets.UpdateConePacket;
 import java.io.IOException;
 import net.minecraft.client.gui.GuiButton;
-import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.gui.GuiTextField;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.resources.I18n;
-import net.minecraft.inventory.Container;
 import net.minecraft.util.ResourceLocation;
 
 public class GuiTrafficCone extends GuiContainer {

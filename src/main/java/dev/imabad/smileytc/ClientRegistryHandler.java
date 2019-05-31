@@ -1,11 +1,9 @@
 package dev.imabad.smileytc;
 
-import dev.imabad.smileytc.blocks.SmileyBlocks;
 import dev.imabad.smileytc.blocks.TESRTrafficCone;
 import dev.imabad.smileytc.blocks.TileSmileyTrafficCone;
 import dev.imabad.smileytc.items.SmileyItems;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.fml.client.registry.ClientRegistry;
