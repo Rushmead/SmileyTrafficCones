@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "xax",
+    "ccc"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:concrete",
+      "data": 1
+    },
+    "a":
+    {
+      "item": "minecraft:glass"
+    },
+    "c":
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    }
+  },
+  "result":
+  {
+    "item": "smileytc:trafficcone",
+    "count": 1
+  }
+}

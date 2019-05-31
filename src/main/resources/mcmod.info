@@ -1,0 +1,16 @@
+[
+{
+  "modid": "smileytc",
+  "name": "Smiley Traffic Cones",
+  "description": "Smiley Traffic Cones!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rushmead"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "smileytc:trafficcone"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "south": {},
+      "west": {
+        "y": 90
+      },
+      "east": {
+        "y": 270
+      },
+      "north": {
+        "y": 180
+      },
+      "none": {}
+    }
+  }
+}
